@@ -1,8 +1,9 @@
 Proyectos en colaborativo desarrollados en react
 
 Pasteleria AyemosTartas:
-https://bakery-front-end.vercel.app/
-https://github.com/emamasonn/bakery-front-end
+* :page_with_curl: WebSite **[Panaderia](https://bakery-front-end.vercel.app/)** :v:
+* :page_with_curl: WebSite **[GitHubProject](https://github.com/emamasonn/bakery-front-end)** :v:
 
 Panel Administrador:
-https://github.com/emamasonn/bakery-panel-frontend
+* :page_with_curl: WebSite **[GitHubProject](https://github.com/emamasonn/bakery-panel-frontend)** :v:
+
